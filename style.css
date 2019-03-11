@@ -1,0 +1,173 @@
+*{
+    font-family: 'Gothic A1', sans-serif;
+}
+body{
+    background-color: #f8f8f8 !important;
+}
+.btn-primary{
+    background-color: #1d67e2 !important;
+}
+header{
+    background-image: url('header.jpg');
+    background-size: cover;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+.home{
+    font-weight: 400;
+    color: white;
+    z-index: 2;
+    font-size: 25px;
+}
+.jumbo{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: lighter !important;
+    margin-bottom: 200px;
+}
+.navbar-brand{
+    color: white !important;
+    letter-spacing: 1px;
+    font-size: 25px;
+    font-weight: bold;
+    //background: linear-gradient(to right, #1d67e2 50%, transparent 50%);
+    border-radius: 2px;
+    //padding: 5px 10px;
+}
+
+.navbar li a,.navbar li a:hover{
+    color: #575758;
+    background-color: transparent;
+    margin-left: 20px;
+}
+
+.signup{
+    border: solid 1px #575758;
+    border-radius: 3px;
+    padding: 5px 25px !important;
+    margin-top: 10px;
+    margin-left: 30px !important;
+}
+.jumbo h2{
+    font-weight: 100 !important;
+    font-size: 45px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.jumbo p{
+    font-size: 22px;
+    color: #efefef;
+    margin-bottom: 25px;
+}
+.join, .post{
+    padding: 8px 70px;
+    border-radius: 2px;
+}
+.join{
+    background-color: #1d67e2;
+    color: white;
+    padding: 9px 70px;
+    border: none;
+}
+
+.post{
+    background-color: transparent;
+    color: #cacaca;
+    border: solid 1px #cacaca;
+}
+.post:hover{
+    color: #cacaca;
+}
+.join:hover{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+}
+.job{
+    -moz-box-shadow: 0 0 15px #f0e698;
+    -webkit-box-shadow: 0 0 15px #f0e698;
+    box-shadow: 0 0 15px #f0e698;
+    border: solid 2px #f0e698;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    padding: 10px;
+    color: #7f7f7f;
+    box-sizing: border-box;
+    background-color: white;
+}
+hr{
+    border-color: #dad6d6 !important;
+}
+a.view{
+    color: #20c44f;
+}
+
+.latest{
+    color: #cdcdcd;
+    background-color: white;
+    margin-bottom: 60px;
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.salary{
+    margin-right: 35px;
+    margin-left: 10px;
+}
+
+.city,.type{
+    margin-left: 55px;
+}
+.job h2{
+    margin-left: 10px;
+    color: #303030;
+    margin-top: 10px;
+}
+hr{
+    margin-top: 8px;
+    margin-bottom: 12px;
+}
+
+.job a{
+    margin-top: 35px;
+    color: #10c042;
+}
+
+.loadmore{
+    padding: 5px 20px;
+    border-radius: 2px;
+    border: solid 1px #1d67e2;
+    color: #1d67e2;
+    margin-bottom: 30px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.loadmore:hover{
+    color: #1d67e2;
+}
+
+.blockblue{
+    height: 30px;
+    width: 26px;
+    border-radius: 2px;
+    position: absolute;
+    background-color: #1d67e2;
+    top: 10px;
+    left: 10px;
+    z-index: -1;
+}
+.navbar-header a{
+    position: relative;
+    z-index: 3;
+    display: inline-block;
+}
+
+
+
+
